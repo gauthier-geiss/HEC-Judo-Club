@@ -1,0 +1,9 @@
+.btn-red{
+	background-color: #FE3232;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:white;
+	font:bold;
+	font-family: 'Bebas Neue', sans-serif;
+	text-decoration: none;
+}
